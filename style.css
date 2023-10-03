@@ -266,14 +266,14 @@ width: 100%;
     }
 
    #footer{
-width: 320px;
+width: 250px;
    }
    nav{
     font-family: 'Tiro Devanagari Hindi', serif;
-    width: 320px;
+    width: 250px;
 }
 .bottom{
-  width: 320px;
+  width: 250px;
 }
   }
   @media only screen and (max-width: 500px) {
